@@ -1,5 +1,7 @@
 # CodeEinstein
-![Alt Text](gg.gif)
+<!-- ![Alt Text](gg.gif) -->
+<img src="gg.gif" alt="Alt Text" style="width: 100%;" />
+
 
 <h1 align="center">Hi 👋, I'm A Emmanuel Oluwatayese</h1>
 <h3 align="center">I am a skilled and detail-oriented Full Stack Developer with a strong focus on frontend technologies such as JavaScript,TypeScript, React.js, Angular, Vue.js, and Next.js. I have experience building scalable and responsive web applications with a focus on performance and user experience. On the backend, I work with technologies like Node.js, NestJS, and Laravel to build robust and secure APIs. I’m also proficient in working with both NoSQL and SQL databases, including MongoDB, PostgreSQL, and MySQL. With a passion for clean code, modern development best practices, and cross-functional collaboration, I strive to deliver impactful digital solutions across various platforms.</h3>
