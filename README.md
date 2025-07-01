@@ -1,6 +1,6 @@
 # CodeEinstein
 <!-- ![Alt Text](gg.gif) -->
-<img src="gg.gif" alt="Alt Text" style="width: 100%;" />
+<img src="gg.gif" alt="Alt Text" width="100%"/>
 
 
 <h1 align="center">Hi 👋, I'm A Emmanuel Oluwatayese</h1>
