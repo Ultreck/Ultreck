@@ -1,4 +1,4 @@
-# CodeEinstein
+# A. Emmanuel Oluwatayese
 <!-- ![Alt Text](gg.gif) -->
 <img src="gg.gif" alt="Alt Text" width="100%"/>
 
