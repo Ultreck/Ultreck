@@ -12,17 +12,17 @@
 
 <p align="left"> <a href="https://twitter.com/adetutuemmanue6" target="blank"><img src="https://img.shields.io/twitter/follow/adetutuemmanue6?logo=twitter&style=for-the-badge" alt="adetutuemmanue6" /></a> </p>
 
-- 🔭 I’m currently working on my portfolio [Emmolly portfolio](https://emmolly-portfolio.vercel.app/)
+- 🔭 I’m currently working on my personal projects [Techaidas](https://techaidas.com/)
 
 - 👨‍💻 All of my projects are available at [https://emmolly-portfolio.vercel.app/](https://emmolly-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, Next, Nodejs, Vuejs, Nestjs, Laravel and Angular**
+- 💬 Ask me about **React, Next, Node.js, Vue.js, NestJS, Laravel, Webflow, and Angular**
 
-- 📫 How to reach me **adetutuemmanueloluwatayese@gmail.com**
+- 📫 How to reach me: **adetutuemmanueloluwatayese@gmail.com**
 
 - 📄 Know about my experiences [https://emmolly-portfolio.vercel.app/](https://emmolly-portfolio.vercel.app/)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I'm intelligent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
