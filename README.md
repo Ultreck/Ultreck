@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm A. Emmanuel Oluwatayese</h1>
-<h3 align="center">I am a Full Stack Engineer & AI-Augmented Developer with 6+ years of experience building and deploying scalable, high-performance web applications using React.js, Next.js, and Node.js. Experienced in integrating LLM APIs (OpenAI, Anthropic, Gemini) and AI-powered features into production full-stack products. Proven track record in optimizing application speed, enhancing user experience, and shipping reliable, maintainable codebases in agile and remote environments.</h3>
+<h3 align="center">Full Stack Engineer & AI-Augmented Developer with 6+ years of experience building and deploying scalable, high-performance web applications using React.js, Next.js, and Node.js. Experienced in integrating LLM APIs (OpenAI, Anthropic, Gemini) and AI-powered features into production full-stack products. Proven track record in optimizing application speed, enhancing user experience, and shipping reliable, maintainable codebases in agile and remote environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultreck&label=Profile%20views&color=0e75b6&style=flat" alt="ultreck" /> </p>
 
