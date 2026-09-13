@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm A. Emmanuel Oluwatayese</h1>
-<h3 align="center">I am a skilled and detail-oriented Full Stack Developer with a strong focus on frontend technologies such as JavaScript,TypeScript, React.js, Angular, Vue.js, and Next.js. I have experience building scalable and responsive web applications with a focus on performance and user experience. On the backend, I work with technologies like Node.js, NestJS, and Laravel to build robust and secure APIs. I’m also proficient in working with both NoSQL and SQL databases, including MongoDB, PostgreSQL, and MySQL. With a passion for clean code, modern development best practices, and cross-functional collaboration, I strive to deliver impactful digital solutions across various platforms.</h3>
+<h3 align="center">I am a Full Stack Engineer & AI-Augmented Developer with 6+ years of experience building and deploying scalable, high-performance web applications using React.js, Next.js, and Node.js. Experienced in integrating LLM APIs (OpenAI, Anthropic, Gemini) and AI-powered features into production full-stack products. Proven track record in optimizing application speed, enhancing user experience, and shipping reliable, maintainable codebases in agile and remote environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultreck&label=Profile%20views&color=0e75b6&style=flat" alt="ultreck" /> </p>
 
